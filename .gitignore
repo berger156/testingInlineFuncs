@@ -1,0 +1,7 @@
+*.o
+*.axf
+*.launch
+/tools/*.txt
+/tools/.ipynb_checkpoints/
+/Debug/
+/build/**
