@@ -1,8 +1,6 @@
 #include "unity.h"
-#define USE_INLINE_FUNCTIONS
 #include "module1.h"
-#undef USE_INLINE_FUNCTIONS
-#include "mock_module2.h"
+#include "mock_module2_fake.h"
 
 void setUp(void)
 {
